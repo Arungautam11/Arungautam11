@@ -2,7 +2,7 @@
 
 🎯 **Software Engineer | Full Stack Web Developer | Python, React, Django Specialist**
 
-Welcome to my GitHub! I'm a passionate developer with a strong foundation in full-stack web application development using **Python, Django, React**, and **Odoo**. I love crafting performant, scalable, and user-focused digital experiences, and I thrive in cloud environments and agile teams.
+Welcome to my GitHub! I'm a passionate developer with a strong foundation in full-stack web application development using **Python, Django, React**, and **MERN**. I love crafting performant, scalable, and user-focused digital experiences, and I thrive in cloud environments and agile teams.
 
 ---
 
@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in ful
 
 - 🌐 LinkedIn: (https://www.linkedin.com/in/arunkgautam)
 - 📧 Email: asgautam19@gmail.com
-- 💼 Portfolio: (https://www.arungautam11.pythonanywhere.com)
+- 💼 Portfolio: (https://arungautam11.pythonanywhere.com/)
 
 ---
 
