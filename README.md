@@ -51,9 +51,9 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in ful
 
 ## 📫 Let's Connect
 
-- 🌐 LinkedIn: (https://www.linkedin.com/in/arunkgautam)
+- 🌐 LinkedIn: (https://www.linkedin.com/in/ak)
 - 📧 Email: asgautam19@gmail.com
-- 💼 Portfolio: (https://arungautam11.pythonanywhere.com/)
+- 💼 Portfolio: (https://arunk.com)
 
 ---
 
