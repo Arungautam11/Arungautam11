@@ -57,11 +57,3 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in ful
 - 💼 Portfolio: (https://arungautam11.pythonanywhere.com/)
 
 ---
-
----
-
-> 🧠💻 **"Code is not just a sequence of logic—it's the poetry of problem-solving,  
-> the art of turning thoughts into reality, and the silent voice of every dreamer  
-> who builds a better world one line at a time."**
-
----
