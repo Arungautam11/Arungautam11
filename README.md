@@ -44,8 +44,9 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in ful
 
 ## 📈 GitHub Stats
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arungautam11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arungautam11&layout=compact&theme=tokyonight)
+![Arun's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arungautam11&show_icons=true&theme=tokyonight)
+![Arun's GitHub Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Arungautam11&theme=tokyonight)
+![Top Langs Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arungautam11&layout=compact&theme=tokyonight)
 
 ---
 
